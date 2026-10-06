@@ -457,40 +457,20 @@
 }
 
 @media(max-width:768px ){
-	.pg41:hover{
-		transform: none;
-		transition: none;
-		height: initial;
-		background-color: whitesmoke;
-	}
 	.pg4para{
 		display: none;
-	}
-	.pg41:hover h3{
-		color: black;
-	}
-
-	.pg41{
-		width: 100%;
 	}
 	.pg4{
 		padding: 0px 10px;
 	}
 }
-
-
-
-
 .pg5 h3{
 	font-weight: 300;
 	font-size: 24px;
 	text-align: center;
 	padding: 50px 0px ;
 }
-
-
 @media(max-width: 768px){
-
 	.pg5 h3{
 		width: 100%;
 	}
@@ -503,15 +483,12 @@
 	    padding: 0px 60px;
     padding-left: 144px;
 }
-
 .pg6box{
 	display: grid;
 	grid-template-areas: 
 	"pg6box1 pg6box2 pg6box3 pg6box4"
 	"pg6box5 pg6box6 pg6box7 pg6box8"
 	"pg6box9 pg6box10 pg6box11 pg6box12"
-
-
 	;
 }
 
